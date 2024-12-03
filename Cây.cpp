@@ -5,6 +5,7 @@ struct nut {
 	int data;
 	nut *nleft;
 	nut *nright;
+	//tao moi sua o day
 };
 
 typedef nut Node;
